@@ -9,5 +9,12 @@ title: Вступ
 : **Лекція 1**{: .label .label-green } **Вступ до оптимізації**
   : [[HML](https://ykochura.github.io/nopt-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/nopt-kpi/pdf/lecture1.pdf)]
 
+
+10 вер
+: **Огляд**{: .label .label-red}**Лінійна алгебра 🔭**
+  : [[HML](https://ykochura.github.io/ai-lab/math/linear_algebra.html#/)][[.ipynb](https://colab.research.google.com/github/YKochura/ai-lab/blob/main/math/linear_algebra.ipynb)]
+: **Огляд**{: .label .label-red}**NumPy**
+  : [[PDF](https://ykochura.github.io/ai-lab/tutor/Numpy Handbook.pdf)][.ipynb](https://colab.research.google.com/github/YKochura/cv-kpi/blob/main/tutor/ndarray.ipynb)]
+
 <!-- : **Книги 📚**{: .label .label-red}**Для читання** -->
   <!-- : PMPP Ch. 1, pp. 1-18 <br> PHPC Ch. 1, pp. 1-34 -->
