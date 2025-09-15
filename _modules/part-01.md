@@ -16,5 +16,11 @@ title: Вступ
 : **Огляд**{: .label .label-red}**NumPy**
   : [[PDF](https://ykochura.github.io/ai-lab/tutor/Numpy Handbook.pdf)][.ipynb](https://colab.research.google.com/github/YKochura/cv-kpi/blob/main/tutor/ndarray.ipynb)]
 
+15 вер
+: **Лекція 2**{: .label .label-green } **Автоматичне диференціювання**
+  : [[HML](https://ykochura.github.io/nopt-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/nopt-kpi/pdf/lecture2.pdf)]
+: **Огляд**{: .label .label-red}**Обчислення в обчислювальних графах**
+  : [[PDF](https://ykochura.github.io/nopt-kpi/tutor/computatio- graphs.pdf)]
+
 <!-- : **Книги 📚**{: .label .label-red}**Для читання** -->
   <!-- : PMPP Ch. 1, pp. 1-18 <br> PHPC Ch. 1, pp. 1-34 -->
