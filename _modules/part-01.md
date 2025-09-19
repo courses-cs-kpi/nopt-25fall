@@ -22,5 +22,10 @@ title: Вступ
 : **Огляд**{: .label .label-red}**Обчислення в обчислювальних графах**
   : [[PDF](https://ykochura.github.io/nopt-kpi/tutor/computatio- graphs.pdf)]
 
+20 вер
+: **ПР #1**{: .label .label-purple} [**Автоматичне
+диференцiювання**](https://ykochura.github.io/nopt-kpi/hw/pr1.pdf)
+  : Дедлайн: 30 вересня 
+
 <!-- : **Книги 📚**{: .label .label-red}**Для читання** -->
   <!-- : PMPP Ch. 1, pp. 1-18 <br> PHPC Ch. 1, pp. 1-34 -->
