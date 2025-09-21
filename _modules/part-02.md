@@ -2,11 +2,11 @@
 title: Оптимізація у глибокому навчанні
 ---
 
-<!--25 вер
-: **Лекція 2**{: .label .label-green } **Згорткові мережі**
-  : [[HML](https://ykochura.github.io/mld-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/mld-kpi/pdf/lecture2.pdf)]
+23 вер
+: **Лекція 3**{: .label .label-green } **Теоретичні основи оптимізації у глибокому навчанні**
+  : [[HML](https://ykochura.github.io/nopt-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/nopt-kpi/pdf/lecture3.pdf)]
 
-: **ПР #1**{: .label .label-purple} [**Повнозв'язні мережі**](https://drive.google.com/file/d/16EozBWYZ0zDcIqoEfYauHkNb-3mQM82p/view?usp=sharing)
+<!--: **ПР #1**{: .label .label-purple} [**Повнозв'язні мережі**](https://drive.google.com/file/d/16EozBWYZ0zDcIqoEfYauHkNb-3mQM82p/view?usp=sharing)
   : Дедлайн: 12 жовтня
 
 09 жов
