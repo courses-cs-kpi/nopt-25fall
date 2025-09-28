@@ -6,6 +6,10 @@ title: Оптимізація у глибокому навчанні
 : **Лекція 3**{: .label .label-green } **Теоретичні основи оптимізації у глибокому навчанні**
   : [[HML](https://ykochura.github.io/nopt-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/nopt-kpi/pdf/lecture3.pdf)]
 
+29 вер
+: **Лекція 4**{: .label .label-green } **Одновимірний градієнтний спуск**
+  : [[HML](https://ykochura.github.io/nopt-kpi/?p=lecture4.md#1)][[PDF](https://ykochura.github.io/nopt-kpi/pdf/lecture4.pdf)]
+
 <!--: **ПР #1**{: .label .label-purple} [**Повнозв'язні мережі**](https://drive.google.com/file/d/16EozBWYZ0zDcIqoEfYauHkNb-3mQM82p/view?usp=sharing)
   : Дедлайн: 12 жовтня
 
