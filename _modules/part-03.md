@@ -17,6 +17,10 @@ title: Градієнтні методи оптимізації
 : **ПР #3**{: .label .label-purple} [**Градiєнтний спуск з iмпульсом**](https://ykochura.github.io/nopt-kpi/hw/pr3.pdf)
   : Дедлайн: 03 листопада 
 
+27 жов
+: **Лекція 6**{: .label .label-green } **Адаптивні методи оптимізації**
+  : [[HML](https://ykochura.github.io/nopt-kpi/?p=lecture6.md#1)][[PDF](https://ykochura.github.io/nopt-kpi/pdf/lecture6.pdf)]
+
 <!--: **ПР #1**{: .label .label-purple} [**Повнозв'язні мережі**](https://drive.google.com/file/d/16EozBWYZ0zDcIqoEfYauHkNb-3mQM82p/view?usp=sharing)
   : Дедлайн: 12 жовтня
 
