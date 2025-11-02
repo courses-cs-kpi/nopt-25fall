@@ -23,7 +23,10 @@ title: Градієнтні методи оптимізації
 
 03 лис
 : **ПР #4**{: .label .label-purple} [**Адаптивна оптимiзацiя**](https://ykochura.github.io/nopt-kpi/hw/pr4.pdf)
-  : Дедлайн: 24 листопада 
+  : Дедлайн: 24 листопада
+
+: **Семінар**{: .label .label-yellow} **Теми на семінар**
+  : [[PDF](https://ykochura.github.io/nopt-kpi/hw/seminar-nopt.pdf)] 
 
 <!--: **ПР #1**{: .label .label-purple} [**Повнозв'язні мережі**](https://drive.google.com/file/d/16EozBWYZ0zDcIqoEfYauHkNb-3mQM82p/view?usp=sharing)
   : Дедлайн: 12 жовтня
